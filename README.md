@@ -23,3 +23,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharas-wq&exclude_repo=Portfolio&langs_count=10&layout=compact&theme=chartreuse-dark&icon_color=00ffff&count_private=true">
 
 <img src="https://github-readme-stats.vercel.app/api?username=hariharas-wq&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffba2c">
+
+[![@hari07's Holopin board](https://holopin.me/hari07)](https://holopin.io/@hari07)
