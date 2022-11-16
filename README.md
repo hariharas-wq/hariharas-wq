@@ -25,3 +25,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hariharas-wq&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffba2c">
 
 [![@hari07's Holopin board](https://holopin.me/hari07)](https://holopin.io/@hari07)
+
+<a href="https://app.daily.dev/hari123"><img src="https://api.daily.dev/devcards/20c1d8a9abfd4f85b11fba5794368f83.png?r=n93" width="400" alt="Harihara Sudhan's Dev Card"/></a>
